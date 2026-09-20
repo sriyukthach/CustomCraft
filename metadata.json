@@ -1,0 +1,7 @@
+{
+  "name": "CustomCraft",
+  "description": "Customizable fashion e-commerce platform. Create it. Customize it. Cart it.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
